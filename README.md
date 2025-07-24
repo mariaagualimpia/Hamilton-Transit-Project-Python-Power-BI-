@@ -36,11 +36,11 @@ Raw data included 103 waterfalls. Through manual cleaning in Excel:
 
 | Folder | Contents |
 |--------|----------|
+| `/Codes/` | Python code for clustering and LP modeling |
 | `/Dashboard/` | Power BI report file `.pbix` |
 | `/Data/` | Raw and cleaned datasets (Excel format) used in the project |
-| `/Reports/` | Dashboard and Project PDF reports |
 | `/Images/` | Screenshots of dashboard visuals |
-| `/Codes/` | Python code for clustering and LP modeling |
+| `/Reports/` | Dashboard and Project PDF reports |
 
 ---
 
