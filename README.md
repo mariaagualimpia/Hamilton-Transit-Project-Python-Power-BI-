@@ -1,6 +1,6 @@
 # Hamilton Transit Project (Python+Power-BI)
 
-Data-driven urban mobility project that bridges the gap between sustainability, tourism, and transport planning. This project explores optimal bus routing and environmental efficiency to connect tourists—without cars—to Hamilton’s waterfalls.
+Data-driven urban mobility project that bridges the gap between sustainability, tourism, and transport planning. This project explores optimal bus routing and environmental efficiency to connect tourists (without cars) to Hamilton’s waterfalls.
 
 ---
 
